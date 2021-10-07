@@ -1,4 +1,4 @@
-<template>
+<template>   
     <div class="container">
         <div class="p-title">
             {{ multiContent.title.toUpperCase() }}
