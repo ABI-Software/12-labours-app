@@ -1,4 +1,4 @@
-<template>
+<template>    
   <div class="home-page">
     <div class="content-body">
       <div class="first-containerbox">
