@@ -1,4 +1,4 @@
-<template>
+<template>  
     <div class="events-container">
         <div class="top-heading">
             <h1>

@@ -1,4 +1,4 @@
-<template>
+<template>  
     <div class="news-item-container">
         <div class="news-item-card">
             <div class="news-item-card__image">

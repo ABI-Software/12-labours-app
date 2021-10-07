@@ -1,4 +1,4 @@
-<template>
+<template>  
   <div class="news-and-events-page">
     <breadcrumb-trail :breadcrumb="breadcrumb" :title="pageTitle.toUpperCase()" />
     <div :style="urlStyle" class="news-events-banner">
